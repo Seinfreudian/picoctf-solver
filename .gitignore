@@ -1,0 +1,14 @@
+# Ignore Obsidian workspace layout (personal)
+.obsidian/workspace.json
+
+# Ignore plugin-specific settings & cache
+.obsidian/plugins/
+.obsidian/plugins/obsidian-git/
+.obsidian/appearance.json
+
+# Ignore Obsidian Git plugin logs if you use it
+.obsidian/obsidian-git-data.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
