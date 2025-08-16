@@ -1,0 +1,1 @@
+take the code in the bookmarklet area, and pass it into the site console. YOu'll get your flag as a website alert!

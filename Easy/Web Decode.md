@@ -1,0 +1,2 @@
+OPen website, go to every page and inspect elements, at one point in the about.html page, you'll find a `notify_true="cGljb0NURnt3ZWJfc3VjYzNzc2Z1bGx5X2QzYzBkZWRfMDJjZGNiNTl9"`.
+ON this, convert ASCII To base64, and you get the flag!

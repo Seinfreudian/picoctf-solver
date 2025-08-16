@@ -1,0 +1,1 @@
+Unzip, take the image and put it through an image metadata extractor online, in the url_attribut you see a base64 string. Put that string through a base64 decoder, you get your flag!
