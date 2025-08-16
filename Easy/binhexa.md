@@ -1,0 +1,1 @@
+Do all 6 bitwise operations either manually or the MATE Calculator. The results are the answers which then give you the flag!

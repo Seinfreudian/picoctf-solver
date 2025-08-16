@@ -1,0 +1,2 @@
+A key to this is when you download and extract the file, pay attention to what is being extracted as it's written down in the terminal window. I took a lot of time manually scavenging and Ctrl+F-ing each file where I could've just looked at the extraction process for 15 secs longer and realised what was actually being extracted where.
+You see that the text file is in a bunch of nested folders in a `.secret` folder in the normal folders. After that just keep following the files until you reach the uber-secret.txt file and you get the flag! 

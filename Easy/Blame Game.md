@@ -1,0 +1,1 @@
+download file, unzip it, access the file. To check commit history of that specific file, do `git log message.py` and you get the flag!

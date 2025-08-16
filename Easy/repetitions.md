@@ -1,0 +1,1 @@
+download file, open it using `nano enc_flag` and you'll see a text. Resembles base64 encoding a lot, so decode it. Takes around 3-4 or 5 decodes to get the flag so keep decoding till you get the flag!

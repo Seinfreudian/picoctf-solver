@@ -1,0 +1,1 @@
+download file, unzip it. Go to the file and you realise there are a lot of files to search and search inside. Use the `grep -r` command for recursive searching the entire current directory `.` , so use the command `grep -r . -e pico` to look for the word pico in all files to then get the flag!
